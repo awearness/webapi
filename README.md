@@ -1,2 +1,2 @@
-# webapi
+# webAPI
 The awearness API
